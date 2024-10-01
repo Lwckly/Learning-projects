@@ -139,8 +139,6 @@ def main():   #vou ter q converter o possível 02 pra 2
       days+=304
 
   total_final = (days * 24) - (24-final_h)
-  if final_a - inicial_a > 90:
-    total_final = (days * 24) - (24 - final_h)
 
 
 

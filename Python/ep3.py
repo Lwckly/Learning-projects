@@ -1,6 +1,6 @@
 import numpy as np
 
-#note:Not tool optimal, made following university assignment recommendations
+#note:Not optimal, made following university assignment recommendations
 #nota:Não otimizado com relação ao uso de ferramentas, feito com base nas regras de entrega da universidade
 
 def le_dados():

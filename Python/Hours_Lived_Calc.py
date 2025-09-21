@@ -15,10 +15,8 @@ def main():  # vou ter q converter o possível 02 pra 2
     final_h = int(input("Digite a hora final: "))
 
     meses = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-    days = 0
-    years = 0
-    leap = 0
     month = {1: 31, 2: 28, 3: 31, 4: 30, 5: 31, 6: 30, 7: 31, 8: 31, 9: 30, 10: 31, 11: 30, 12: 31}
+    days,years,leap = 0
 
     for i in range(inicial_a, final_a + 1):
         years += 1
@@ -68,3 +66,4 @@ def main():  # vou ter q converter o possível 02 pra 2
     print(f"O total de horas vivido foi de {END} horas")
 
 main()
+

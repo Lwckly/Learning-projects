@@ -1,4 +1,5 @@
 import numpy as np
+#numpy only 
 
 #note:Not optimal, made following university assignment recommendations
 #nota:Não otimizado com relação ao uso de ferramentas, feito com base nas regras de entrega da universidade

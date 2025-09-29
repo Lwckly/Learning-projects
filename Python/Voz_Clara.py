@@ -118,3 +118,5 @@ except sr.RequestError as e:
     print(f"Erro no serviço de reconhecimento; {e}")
 except Exception as e:
     print(f"Ocorreu um erro inesperado: {e}")
+
+#temos o modelo funcionando, estamos resolvendo a parte dos dados
